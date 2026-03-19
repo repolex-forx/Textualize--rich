@@ -117,6 +117,59 @@
         "blob/566ecd0f3956259be545c9a6dc01047ffb907dcc.nq.gz",
         "blob/4f65314220f2831a0b246cf42fde02fab098ba04.nq.gz",
         "blob/6247f7e231716482115f34084ac61030743e0715.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/1b437866469bd5a05e0a14141dc5c17acd30c858.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1b437866469bd5a05e0a14141dc5c17acd30c858.nq.gz",
+      "repolex": "aggregate/repolex/1b437866469bd5a05e0a14141dc5c17acd30c858.nq.gz",
+      "dep": "dep/1b437866469bd5a05e0a14141dc5c17acd30c858.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rich",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich"
+        },
+        {
+          "packageName": "pprintpp",
+          "githubOrg": "wolever",
+          "githubRepo": "pprintpp"
+        },
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme"
+        },
+        {
+          "packageName": "colorama",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama"
+        },
+        {
+          "packageName": "emoji",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji"
+        },
+        {
+          "packageName": "commonmark",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "table",
+          "githubOrg": "eseraygun",
+          "githubRepo": "python-table"
+        }
       ]
     }
   ],
