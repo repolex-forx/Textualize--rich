@@ -4216,6 +4216,64 @@
         "blob/077508fad535e832f5c6d969519d61aa61fff633.nq.gz",
         "blob/7a2493931198748471823b34b00982419a118732.nq.gz",
         "blob/08c6eba328a805fadf7e74db17dff4023c5ca7c4.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e0a1fd3052a54144f54a20eb97bfc3f397658675.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e0a1fd3052a54144f54a20eb97bfc3f397658675.nq.gz",
+      "repolex": "aggregate/repolex/e0a1fd3052a54144f54a20eb97bfc3f397658675.nq.gz",
+      "dep": "dep/e0a1fd3052a54144f54a20eb97bfc3f397658675.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rich",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "IPython",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython"
+        },
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        },
+        {
+          "packageName": "commonmark",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py"
+        },
+        {
+          "packageName": "pprintpp",
+          "githubOrg": "wolever",
+          "githubRepo": "pprintpp"
+        },
+        {
+          "packageName": "emoji",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji"
+        },
+        {
+          "packageName": "colorama",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme"
+        },
+        {
+          "packageName": "wcwidth",
+          "githubOrg": "jquast",
+          "githubRepo": "wcwidth"
+        }
       ]
     },
     {
