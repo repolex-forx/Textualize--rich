@@ -1076,6 +1076,59 @@
         "blob/6247f7e231716482115f34084ac61030743e0715.nq.gz",
         "blob/077508fad535e832f5c6d969519d61aa61fff633.nq.gz",
         "blob/08c6eba328a805fadf7e74db17dff4023c5ca7c4.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/84d9a1d8792ee76dcf8497f12fa69ee094aac282.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/84d9a1d8792ee76dcf8497f12fa69ee094aac282.nq.gz",
+      "repolex": "aggregate/repolex/84d9a1d8792ee76dcf8497f12fa69ee094aac282.nq.gz",
+      "dep": "dep/84d9a1d8792ee76dcf8497f12fa69ee094aac282.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rich",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "wcwidth",
+          "githubOrg": "jquast",
+          "githubRepo": "wcwidth"
+        },
+        {
+          "packageName": "pprintpp",
+          "githubOrg": "wolever",
+          "githubRepo": "pprintpp"
+        },
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        },
+        {
+          "packageName": "emoji",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji"
+        },
+        {
+          "packageName": "colorama",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme"
+        },
+        {
+          "packageName": "commonmark",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py"
+        }
       ]
     },
     {
