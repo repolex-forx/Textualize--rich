@@ -6229,6 +6229,64 @@
         "blob/077508fad535e832f5c6d969519d61aa61fff633.nq.gz",
         "blob/7a2493931198748471823b34b00982419a118732.nq.gz",
         "blob/08c6eba328a805fadf7e74db17dff4023c5ca7c4.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/9a4fbf83c5051eaf94a88996292c438c895306d5.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9a4fbf83c5051eaf94a88996292c438c895306d5.nq.gz",
+      "repolex": "aggregate/repolex/9a4fbf83c5051eaf94a88996292c438c895306d5.nq.gz",
+      "dep": "dep/9a4fbf83c5051eaf94a88996292c438c895306d5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "IPython",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython"
+        },
+        {
+          "packageName": "rich",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "commonmark",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py"
+        },
+        {
+          "packageName": "pprintpp",
+          "githubOrg": "wolever",
+          "githubRepo": "pprintpp"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme"
+        },
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        },
+        {
+          "packageName": "colorama",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama"
+        },
+        {
+          "packageName": "emoji",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji"
+        },
+        {
+          "packageName": "wcwidth",
+          "githubOrg": "jquast",
+          "githubRepo": "wcwidth"
+        }
       ]
     }
   ],
