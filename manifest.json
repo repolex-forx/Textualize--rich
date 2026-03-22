@@ -17724,6 +17724,13 @@
           "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
         },
         {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
           "packageName": "typing-extensions",
           "packageVersion": "4.9.0rc1",
           "githubOrg": "python",
@@ -17738,32 +17745,11 @@
           "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
         },
         {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
-        },
-        {
-          "packageName": "colorama",
-          "packageVersion": "0.4.6rc1",
-          "githubOrg": "tartley",
-          "githubRepo": "colorama",
-          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
-        },
-        {
           "packageName": "IPython",
           "packageVersion": "9.9.0",
           "githubOrg": "ipython",
           "githubRepo": "ipython",
           "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
-        },
-        {
-          "packageName": "sphinx-rtd-theme",
-          "packageVersion": "3.1.0rc2",
-          "githubOrg": "readthedocs",
-          "githubRepo": "sphinx_rtd_theme",
-          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
         },
         {
           "packageName": "commonmark",
@@ -17778,6 +17764,20 @@
           "githubOrg": "jquast",
           "githubRepo": "wcwidth",
           "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+        },
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
         }
       ]
     },
