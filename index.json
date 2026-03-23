@@ -3,6 +3,11 @@
   "repo": "rich",
   "versions": [
     {
+      "commit": "247431544d407d2496e200124e7b5ed2d9e657c9",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "36efcb5abe9ea8b6a7707243bec89a81e063c01a",
       "tag": "",
       "parsed_at": ""
