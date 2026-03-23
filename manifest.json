@@ -42146,6 +42146,77 @@
         "blob/d7d3afceac2cb7d57e7ecda67c6b9d75b9feae90.nq.gz",
         "blob/08c6eba328a805fadf7e74db17dff4023c5ca7c4.nq.gz",
         "blob/68b1ef3d294504e938126f2a7166ef4d78c2c87c.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/11c305e1722a81c553a41fb9358f1058231757c5.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/11c305e1722a81c553a41fb9358f1058231757c5.nq.gz",
+      "repolex": "aggregate/repolex/11c305e1722a81c553a41fb9358f1058231757c5.nq.gz",
+      "dep": "dep/11c305e1722a81c553a41fb9358f1058231757c5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rich",
+          "packageVersion": "9.9.0",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "typing-extensions",
+          "packageVersion": "4.9.0rc1",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "emoji",
+          "packageVersion": "2.9.0",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "commonmark",
+          "packageVersion": "0.9.1",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "wcwidth",
+          "packageVersion": "0.6.0",
+          "githubOrg": "jquast",
+          "githubRepo": "wcwidth",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "HEAD"
+        }
       ]
     },
     {
