@@ -1,0 +1,92 @@
+{
+  "commit": "ac1a33da175972f895e894121df609d0cb1448fe",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/ac1a33da175972f895e894121df609d0cb1448fe.nq.gz",
+      "size_bytes": 6642891
+    },
+    "dep": {
+      "path": "dep/ac1a33da175972f895e894121df609d0cb1448fe.nq.gz",
+      "size_bytes": 1040
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "rich",
+      "packageVersion": "9.9.0",
+      "githubOrg": "willmcgugan",
+      "githubRepo": "rich",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "sphinx-rtd-theme",
+      "packageVersion": "3.1.0rc2",
+      "githubOrg": "readthedocs",
+      "githubRepo": "sphinx_rtd_theme",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "IPython",
+      "packageVersion": "9.9.0",
+      "githubOrg": "ipython",
+      "githubRepo": "ipython",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "attr",
+      "packageVersion": "0.3.2",
+      "githubOrg": "denis-ryzhkov",
+      "githubRepo": "attr",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "typing-extensions",
+      "packageVersion": "4.9.0rc1",
+      "githubOrg": "python",
+      "githubRepo": "typing_extensions",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "wcwidth",
+      "packageVersion": "0.6.0",
+      "githubOrg": "jquast",
+      "githubRepo": "wcwidth",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "emoji",
+      "packageVersion": "2.9.0",
+      "githubOrg": "carpedm20",
+      "githubRepo": "emoji",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "commonmark",
+      "packageVersion": "0.9.1",
+      "githubOrg": "rtfd",
+      "githubRepo": "commonmark.py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "click",
+      "packageVersion": "8.3.1",
+      "githubOrg": "pallets",
+      "githubRepo": "click",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "colorama",
+      "packageVersion": "0.4.6rc1",
+      "githubOrg": "tartley",
+      "githubRepo": "colorama",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
