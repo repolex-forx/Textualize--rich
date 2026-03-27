@@ -1,0 +1,1042 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/Textualize/rich",
+  "@type": "gh:Repository",
+  "gh:name": "rich",
+  "gh:owner": "Textualize",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/6261ca23bf838abaa0fa6478dc81ccb18a6949c0",
+      "git:hexsha": "6261ca23bf838abaa0fa6478dc81ccb18a6949c0",
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.3.3",
+      "repolex:parsedAt": "2026-03-27T01:42:51.489071+00:00"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/143fe06c477006b7d51c6a144047d77cbafde0b4",
+      "git:hexsha": "143fe06c477006b7d51c6a144047d77cbafde0b4",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "9.12.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/063c653faa82c2e2a2497e71f45fe27ea159f01b",
+      "git:hexsha": "063c653faa82c2e2a2497e71f45fe27ea159f01b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v.5.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/d4a60fef7ec607be08908ebde7be522e28a1e922",
+      "git:hexsha": "d4a60fef7ec607be08908ebde7be522e28a1e922",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.3.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1b437866469bd5a05e0a14141dc5c17acd30c858",
+      "git:hexsha": "1b437866469bd5a05e0a14141dc5c17acd30c858",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/f1bde0a821781f6b7421fffd4df13a4afaaef47c",
+      "git:hexsha": "f1bde0a821781f6b7421fffd4df13a4afaaef47c",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.7.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/6b088eaf323cadf6b3caca5a1c584b611fae4668",
+      "git:hexsha": "6b088eaf323cadf6b3caca5a1c584b611fae4668",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.7.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/9b85add4b0be924da0753874f9ef35165e6fe665",
+      "git:hexsha": "9b85add4b0be924da0753874f9ef35165e6fe665",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/507f54995a2fb330440cb4fc9d7c6335350bd6a2",
+      "git:hexsha": "507f54995a2fb330440cb4fc9d7c6335350bd6a2",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.10"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2b22652f9ba885112919dcf88ba6fb4c1bb65d1d",
+      "git:hexsha": "2b22652f9ba885112919dcf88ba6fb4c1bb65d1d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.11"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/334dc742fbed621ccf21a6d8a76e71f74e51fcf1",
+      "git:hexsha": "334dc742fbed621ccf21a6d8a76e71f74e51fcf1",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.12"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/19645896b79b374df7e2f45aa931025ff25d1df5",
+      "git:hexsha": "19645896b79b374df7e2f45aa931025ff25d1df5",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0b3e1ec3c7c6673a7b6f09a5963420f9890896cd",
+      "git:hexsha": "0b3e1ec3c7c6673a7b6f09a5963420f9890896cd",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.6"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/35096145f196fa9d5cc6868aced692f731fcec93",
+      "git:hexsha": "35096145f196fa9d5cc6868aced692f731fcec93",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.7"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e5c300d5b0f4ada0a0f7588c660a5fd29fbaee64",
+      "git:hexsha": "e5c300d5b0f4ada0a0f7588c660a5fd29fbaee64",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.8"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ff2525a86f5a55951701ae295577b1c31454980c",
+      "git:hexsha": "ff2525a86f5a55951701ae295577b1c31454980c",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.8.9"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/6dc2c6e464dc89b90889825df9484ea5eecb15a1",
+      "git:hexsha": "6dc2c6e464dc89b90889825df9484ea5eecb15a1",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3617dc4fa0767918237916fca9d193b89427228f",
+      "git:hexsha": "3617dc4fa0767918237916fca9d193b89427228f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b16db0c7e61fcf7977636542ccb4017fc14d210a",
+      "git:hexsha": "b16db0c7e61fcf7977636542ccb4017fc14d210a",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.0.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/748dea614fa03ac8d3b1d66d14a2acc8c8ec223f",
+      "git:hexsha": "748dea614fa03ac8d3b1d66d14a2acc8c8ec223f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.0.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3cabecc4785339fefc688bd70afcee930111e0e0",
+      "git:hexsha": "3cabecc4785339fefc688bd70afcee930111e0e0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7e61cd2fbce96bfa82393457eeff98248dc03fdd",
+      "git:hexsha": "7e61cd2fbce96bfa82393457eeff98248dc03fdd",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2d0276c2a1fd9aba4494af87e5f24a355d03a9e2",
+      "git:hexsha": "2d0276c2a1fd9aba4494af87e5f24a355d03a9e2",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2c2e7bc5b748f69865e39ab7f2838378b99b1285",
+      "git:hexsha": "2c2e7bc5b748f69865e39ab7f2838378b99b1285",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/bd00a04269f33ef63fe05330f781b51716dd073f",
+      "git:hexsha": "bd00a04269f33ef63fe05330f781b51716dd073f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/52e5b7078b0fc23939def9ed7d130e78d0c25eb2",
+      "git:hexsha": "52e5b7078b0fc23939def9ed7d130e78d0c25eb2",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/51387ef15007f24d7cf9cfccb4faeb05d687dd18",
+      "git:hexsha": "51387ef15007f24d7cf9cfccb4faeb05d687dd18",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.7"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/8e402e491160df306bf8829c7ea8734b30f5549b",
+      "git:hexsha": "8e402e491160df306bf8829c7ea8734b30f5549b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.8"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/5097f44092a4ba4ef7741755b3752d2aebe772a0",
+      "git:hexsha": "5097f44092a4ba4ef7741755b3752d2aebe772a0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.1.9"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b8dca8b264048b27c334bc8920bb2a3b43c24470",
+      "git:hexsha": "b8dca8b264048b27c334bc8920bb2a3b43c24470",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/be0bd97404857e2261cba6a7f20da6ed2e2e1ca9",
+      "git:hexsha": "be0bd97404857e2261cba6a7f20da6ed2e2e1ca9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.2.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/a3b09979d56962b671bf445cbbd0df107c5c9b6d",
+      "git:hexsha": "a3b09979d56962b671bf445cbbd0df107c5c9b6d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.2.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/84d9a1d8792ee76dcf8497f12fa69ee094aac282",
+      "git:hexsha": "84d9a1d8792ee76dcf8497f12fa69ee094aac282",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.2.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/bbfe0e0c1d09165877f633199452a93de039009e",
+      "git:hexsha": "bbfe0e0c1d09165877f633199452a93de039009e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/966ebdaae590cad7ecde0630923e186430960e10",
+      "git:hexsha": "966ebdaae590cad7ecde0630923e186430960e10",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v1.3.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b9e0014add85dcbb3c725289955db2e346c84dfb",
+      "git:hexsha": "b9e0014add85dcbb3c725289955db2e346c84dfb",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/11c305e1722a81c553a41fb9358f1058231757c5",
+      "git:hexsha": "11c305e1722a81c553a41fb9358f1058231757c5",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e34eadb3a9354c2469fa2112400ce2690f2663ba",
+      "git:hexsha": "e34eadb3a9354c2469fa2112400ce2690f2663ba",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/23aa71774457c34fe6d1fb527c1c2972447bb18d",
+      "git:hexsha": "23aa71774457c34fe6d1fb527c1c2972447bb18d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.10.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/550d391171934874ec85ef7bcad2292d8728c1ce",
+      "git:hexsha": "550d391171934874ec85ef7bcad2292d8728c1ce",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.11.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/cf606f0a3cab3dbe8f9fdaa2ccc4882c594ce2af",
+      "git:hexsha": "cf606f0a3cab3dbe8f9fdaa2ccc4882c594ce2af",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.12.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ac1a33da175972f895e894121df609d0cb1448fe",
+      "git:hexsha": "ac1a33da175972f895e894121df609d0cb1448fe",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.13.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/008854c40772f647dfcb873bc3489e8a1c02d598",
+      "git:hexsha": "008854c40772f647dfcb873bc3489e8a1c02d598",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.14.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ad6e3dea2dfe549a309ae602164a6dc7540f3c05",
+      "git:hexsha": "ad6e3dea2dfe549a309ae602164a6dc7540f3c05",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.15.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3db6396a0c6838fd8fa642ccab3a095838d88329",
+      "git:hexsha": "3db6396a0c6838fd8fa642ccab3a095838d88329",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.15.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3827b4ae01aca1b4cb308f4c838da1b91384ad7d",
+      "git:hexsha": "3827b4ae01aca1b4cb308f4c838da1b91384ad7d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.15.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/c57e1f508af1f042d2777e876f816ea157d7a61b",
+      "git:hexsha": "c57e1f508af1f042d2777e876f816ea157d7a61b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.16.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1442dd7759b4bc92ed4d79a6bb5fbf29b9df4f76",
+      "git:hexsha": "1442dd7759b4bc92ed4d79a6bb5fbf29b9df4f76",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.16.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2ba277ac54a153d3030b496698133ec2e4f67e1d",
+      "git:hexsha": "2ba277ac54a153d3030b496698133ec2e4f67e1d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.16.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7d02d29ba887c5c2b0203e0fb7e3c34cf1e14079",
+      "git:hexsha": "7d02d29ba887c5c2b0203e0fb7e3c34cf1e14079",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/690507d4f39ff4ae9e5618711627037ac26e256c",
+      "git:hexsha": "690507d4f39ff4ae9e5618711627037ac26e256c",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.2.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/a81230bcff8e66a6e16522a0ab9186416d615f09",
+      "git:hexsha": "a81230bcff8e66a6e16522a0ab9186416d615f09",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.2.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/20024635c06c22879fd2fd1e380ec4cccd9935dd",
+      "git:hexsha": "20024635c06c22879fd2fd1e380ec4cccd9935dd",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e5246436cd75de32f3436cc88d6e4fdebe13bd8d",
+      "git:hexsha": "e5246436cd75de32f3436cc88d6e4fdebe13bd8d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.4.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/c9afafdd680831a43956906d56c78d9933aaf232",
+      "git:hexsha": "c9afafdd680831a43956906d56c78d9933aaf232",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.5.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2ea7e586792a95e33cddc74f9e89e62bcd8d7f2b",
+      "git:hexsha": "2ea7e586792a95e33cddc74f9e89e62bcd8d7f2b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/52d159aae04d12ba24ecdc3d8104e6b8068cbf5f",
+      "git:hexsha": "52d159aae04d12ba24ecdc3d8104e6b8068cbf5f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.7.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/43d4c4e50c0334f93240aa907183bb24b8e69fe9",
+      "git:hexsha": "43d4c4e50c0334f93240aa907183bb24b8e69fe9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.8.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/bd34e0a1ef8f59700f19277ec30cf0cb5ff01a08",
+      "git:hexsha": "bd34e0a1ef8f59700f19277ec30cf0cb5ff01a08",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v10.9.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/5f0219786bbaf994061011df087602d5edff5d66",
+      "git:hexsha": "5f0219786bbaf994061011df087602d5edff5d66",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v11.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3f7d3e4ef372f4ce954c240df723d8cd646b1534",
+      "git:hexsha": "3f7d3e4ef372f4ce954c240df723d8cd646b1534",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v11.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/972dedff546a60642db36831dbb8aaab19077a2c",
+      "git:hexsha": "972dedff546a60642db36831dbb8aaab19077a2c",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v11.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/656b7a185d7f7c3a1f28e58f74683d03ab4349a9",
+      "git:hexsha": "656b7a185d7f7c3a1f28e58f74683d03ab4349a9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2d3152a230d2911cf4e7d7648cd7153e784301e3",
+      "git:hexsha": "2d3152a230d2911cf4e7d7648cd7153e784301e3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/489fafc63e4ab85cacde60ade1a15099d6c08ca8",
+      "git:hexsha": "489fafc63e4ab85cacde60ade1a15099d6c08ca8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0a3fcb9c4398274509794992bbd48a58e949ca20",
+      "git:hexsha": "0a3fcb9c4398274509794992bbd48a58e949ca20",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/edcb6f9e1a4674b0cd45a854c25c5ac6704b2ddb",
+      "git:hexsha": "edcb6f9e1a4674b0cd45a854c25c5ac6704b2ddb",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2c93dce92788cec32a39de14bf54a51188284cd8",
+      "git:hexsha": "2c93dce92788cec32a39de14bf54a51188284cd8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.4.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0fd6bc567f761cecb764673979c7491b1aa2c51b",
+      "git:hexsha": "0fd6bc567f761cecb764673979c7491b1aa2c51b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.4.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/58bfa48f98e30bb3afd1d3126d23177092bc6ca3",
+      "git:hexsha": "58bfa48f98e30bb3afd1d3126d23177092bc6ca3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.4.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/9bfb6190934d3b265610fc6e17fe80ee308a7483",
+      "git:hexsha": "9bfb6190934d3b265610fc6e17fe80ee308a7483",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.4.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/aa7926c1431eebfb2ccaab9f3b63a4ac6cd8dfe6",
+      "git:hexsha": "aa7926c1431eebfb2ccaab9f3b63a4ac6cd8dfe6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.4.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1de94713811101702b8fcf283c64d1a5de5a8213",
+      "git:hexsha": "1de94713811101702b8fcf283c64d1a5de5a8213",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.5.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/a6f2d84511cda7f367dca527177d7b586264755b",
+      "git:hexsha": "a6f2d84511cda7f367dca527177d7b586264755b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.5.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/cc0107017f4a590b4b084aac7f61c424f9672331",
+      "git:hexsha": "cc0107017f4a590b4b084aac7f61c424f9672331",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v12.6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/d14b304aa45bf0759729f4e066606065daa341c8",
+      "git:hexsha": "d14b304aa45bf0759729f4e066606065daa341c8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/87529ad403630d6b7d1047179a5e62341fd75b3c",
+      "git:hexsha": "87529ad403630d6b7d1047179a5e62341fd75b3c",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b7ac6bb73dd7e6d42063bd0b4434322763b460c2",
+      "git:hexsha": "b7ac6bb73dd7e6d42063bd0b4434322763b460c2",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/8c297cb6da44a5b31e84038a72b946c22c93e27e",
+      "git:hexsha": "8c297cb6da44a5b31e84038a72b946c22c93e27e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0d062a73d67820e78e342f91a472dd87ed7ee48f",
+      "git:hexsha": "0d062a73d67820e78e342f91a472dd87ed7ee48f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b89d0362e8ebcb18902f0f0a206879f1829b5c0b",
+      "git:hexsha": "b89d0362e8ebcb18902f0f0a206879f1829b5c0b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.3.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2eb5cbfd46b41617a4b3a906955bcda17d88fb75",
+      "git:hexsha": "2eb5cbfd46b41617a4b3a906955bcda17d88fb75",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.3.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/076e0d208eb0b4e74cd8639e11a558b9319bd799",
+      "git:hexsha": "076e0d208eb0b4e74cd8639e11a558b9319bd799",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.3.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/86418dfd18f46b94cabf6807a1cad11c31b4960d",
+      "git:hexsha": "86418dfd18f46b94cabf6807a1cad11c31b4960d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.3.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/6d30ad0f30028210124c149811cbbe2b183711f9",
+      "git:hexsha": "6d30ad0f30028210124c149811cbbe2b183711f9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.3.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3c4fbd29b82782d92a6958299d0fd074929385f3",
+      "git:hexsha": "3c4fbd29b82782d92a6958299d0fd074929385f3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.4.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b9c9eb57b4fc3b371298205f4ec51320ae804dd0",
+      "git:hexsha": "b9c9eb57b4fc3b371298205f4ec51320ae804dd0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.4.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/afaf8cc7e08fd47d2c78c953c4b8ea663e05fb90",
+      "git:hexsha": "afaf8cc7e08fd47d2c78c953c4b8ea663e05fb90",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.4.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1ad6f73a4d1d3b40ac3f879feccfaad66412bd1d",
+      "git:hexsha": "1ad6f73a4d1d3b40ac3f879feccfaad66412bd1d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.5.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3fa3d36568bcf37d07fbcb06bd45547c5890634e",
+      "git:hexsha": "3fa3d36568bcf37d07fbcb06bd45547c5890634e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.5.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/720800e6930d85ad027b1e9bd0cbb96b5e994ce3",
+      "git:hexsha": "720800e6930d85ad027b1e9bd0cbb96b5e994ce3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.5.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ec91917deb47b43188312e0e3f03bbab7e4e2e7e",
+      "git:hexsha": "ec91917deb47b43188312e0e3f03bbab7e4e2e7e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.5.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e9f75c9912ed25b9777bc0257853370951220b17",
+      "git:hexsha": "e9f75c9912ed25b9777bc0257853370951220b17",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/fd981823644ccf50d685ac9c0cfe8e1e56c9dd35",
+      "git:hexsha": "fd981823644ccf50d685ac9c0cfe8e1e56c9dd35",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.7.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7f580bdcf07a3b269a0e786b6a3aa9c804f393cf",
+      "git:hexsha": "7f580bdcf07a3b269a0e786b6a3aa9c804f393cf",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.7.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/9ec419154102acce7363e3958bec6c261864d7fb",
+      "git:hexsha": "9ec419154102acce7363e3958bec6c261864d7fb",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.8.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/260b35fd99c6b6ee9e28be8e3789e74bc3dd0cef",
+      "git:hexsha": "260b35fd99c6b6ee9e28be8e3789e74bc3dd0cef",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.8.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/36f3ca645dd225ef5d9d836e1e3c480dc3f68ff0",
+      "git:hexsha": "36f3ca645dd225ef5d9d836e1e3c480dc3f68ff0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.9.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/5ba9cb56e68dcdf2db50c214d8f1412c8a50761b",
+      "git:hexsha": "5ba9cb56e68dcdf2db50c214d8f1412c8a50761b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.9.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0f2f51b872d14588de3a65968f5cdde6fb5694a3",
+      "git:hexsha": "0f2f51b872d14588de3a65968f5cdde6fb5694a3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.9.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/afcc5c5a957c75b325fd7cc45bd70b3ac6413ef4",
+      "git:hexsha": "afcc5c5a957c75b325fd7cc45bd70b3ac6413ef4",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.9.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/43d3b04725ab9731727fb1126e35980c62f32377",
+      "git:hexsha": "43d3b04725ab9731727fb1126e35980c62f32377",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v13.9.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/72e3bb33d44fd96881f7742b77137983907a942f",
+      "git:hexsha": "72e3bb33d44fd96881f7742b77137983907a942f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2dca1b70359dac61e1bbfb6f14ebe19a5ab79c3d",
+      "git:hexsha": "2dca1b70359dac61e1bbfb6f14ebe19a5ab79c3d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/494f83c923ca54ecc943bf5e60c0004e65fbb54e",
+      "git:hexsha": "494f83c923ca54ecc943bf5e60c0004e65fbb54e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/36fe3f7ca9becca4777861d5e6e625f5a4a37545",
+      "git:hexsha": "36fe3f7ca9becca4777861d5e6e625f5a4a37545",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/f2a1c3b8a8f7edc41b1954cc3fb66bae32293a5e",
+      "git:hexsha": "f2a1c3b8a8f7edc41b1954cc3fb66bae32293a5e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.3.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0752ff047295131d98f24284e1d949300cd6f4c1",
+      "git:hexsha": "0752ff047295131d98f24284e1d949300cd6f4c1",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.3.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ce0118819d172d134507bcf5982d3faf82bbc43e",
+      "git:hexsha": "ce0118819d172d134507bcf5982d3faf82bbc43e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v14.3.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/95d8bf9841d0f7f467d87e347d1620a054b9eee6",
+      "git:hexsha": "95d8bf9841d0f7f467d87e347d1620a054b9eee6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/6d7ba589e2e37e91f12d0a0d4e4a6ae0c9e144a5",
+      "git:hexsha": "6d7ba589e2e37e91f12d0a0d4e4a6ae0c9e144a5",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/c24ab497ead3a30758ac1208ce76b925057138ac",
+      "git:hexsha": "c24ab497ead3a30758ac1208ce76b925057138ac",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ef80460f7fe69ae3342acdd04bf1d7c6154905cb",
+      "git:hexsha": "ef80460f7fe69ae3342acdd04bf1d7c6154905cb",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/911d305fe718d989a5d3606c8e0cdf5db97bf8fe",
+      "git:hexsha": "911d305fe718d989a5d3606c8e0cdf5db97bf8fe",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.2.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/4b123ddf9881f37d257a385fbbae0821deb6dba6",
+      "git:hexsha": "4b123ddf9881f37d257a385fbbae0821deb6dba6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.2.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/03a521346841b02543fee9c24b8410ba18f5cbc2",
+      "git:hexsha": "03a521346841b02543fee9c24b8410ba18f5cbc2",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.2.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2356d7c0955dd6914367e0f88bfb87be040e35fa",
+      "git:hexsha": "2356d7c0955dd6914367e0f88bfb87be040e35fa",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.2.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/5f55063b139e5fcb70dc75cbebd4195c48f1e9bc",
+      "git:hexsha": "5f55063b139e5fcb70dc75cbebd4195c48f1e9bc",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.2.6"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/4020d5a9fb77b6a1bbe4a4e763951dd9441860c8",
+      "git:hexsha": "4020d5a9fb77b6a1bbe4a4e763951dd9441860c8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/f2af8c9d54e9ebc14b32fe68ddaefd01b7e5a801",
+      "git:hexsha": "f2af8c9d54e9ebc14b32fe68ddaefd01b7e5a801",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.3.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/d1ea01d0a35ef1509ab98251227d6bf995b245a4",
+      "git:hexsha": "d1ea01d0a35ef1509ab98251227d6bf995b245a4",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/11c00224398aae3ef5fcf363641c249c1752af7d",
+      "git:hexsha": "11c00224398aae3ef5fcf363641c249c1752af7d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.0.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/837b6d7e85254f0047cb41a4cbe0e4b00f54809d",
+      "git:hexsha": "837b6d7e85254f0047cb41a4cbe0e4b00f54809d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.0.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/038e22eb98f43091dec8b8d0d61d64bdc81587e1",
+      "git:hexsha": "038e22eb98f43091dec8b8d0d61d64bdc81587e1",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.0.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/932e26b6508ccc10469a091f5e629dee8f2c124b",
+      "git:hexsha": "932e26b6508ccc10469a091f5e629dee8f2c124b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.0.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e0a1fd3052a54144f54a20eb97bfc3f397658675",
+      "git:hexsha": "e0a1fd3052a54144f54a20eb97bfc3f397658675",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/8b185610d336693f2ff08c30157682ba7382d9ee",
+      "git:hexsha": "8b185610d336693f2ff08c30157682ba7382d9ee",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/f84d5dee6ad9bc57a8c67ded51c1ecd03677e65f",
+      "git:hexsha": "f84d5dee6ad9bc57a8c67ded51c1ecd03677e65f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/4d6a6d882048e784aac9e45fc3d0712eac8a44c6",
+      "git:hexsha": "4d6a6d882048e784aac9e45fc3d0712eac8a44c6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.3.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e9e72000c50f56654c89e119ff882e322e51ecf3",
+      "git:hexsha": "e9e72000c50f56654c89e119ff882e322e51ecf3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.3.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/0db0cbd00598ad3cfc625eda301307f69c89d3f9",
+      "git:hexsha": "0db0cbd00598ad3cfc625eda301307f69c89d3f9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.4.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/9a4fbf83c5051eaf94a88996292c438c895306d5",
+      "git:hexsha": "9a4fbf83c5051eaf94a88996292c438c895306d5",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.4.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e7849495bba31d9320e17c23f24d50f6e3447486",
+      "git:hexsha": "e7849495bba31d9320e17c23f24d50f6e3447486",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v4.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/cefafdc12e0220d139c704522979a0dc9b3f889b",
+      "git:hexsha": "cefafdc12e0220d139c704522979a0dc9b3f889b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v4.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/579a29c82081aa74437d9e2483ac9862c048415d",
+      "git:hexsha": "579a29c82081aa74437d9e2483ac9862c048415d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v4.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/e338ab145797e57a5db73f37b3883a30592f0643",
+      "git:hexsha": "e338ab145797e57a5db73f37b3883a30592f0643",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v4.2.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1ffbd443774cbc4bf9ddd968aef7c03322f33cf0",
+      "git:hexsha": "1ffbd443774cbc4bf9ddd968aef7c03322f33cf0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v5.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/06922006f2eb141255336a22e8918771d14d5760",
+      "git:hexsha": "06922006f2eb141255336a22e8918771d14d5760",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v5.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/9abc0292c1f96433e4f87b10d5dea0d617b0ab23",
+      "git:hexsha": "9abc0292c1f96433e4f87b10d5dea0d617b0ab23",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v5.1.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7e4a2db4afa29a59ff90d265ad115a225038a5d0",
+      "git:hexsha": "7e4a2db4afa29a59ff90d265ad115a225038a5d0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v5.2.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/96ea5feddfa8130ca8e961ab772dfdbb836cb3fa",
+      "git:hexsha": "96ea5feddfa8130ca8e961ab772dfdbb836cb3fa",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v6.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/c3ee3b05d6d06be435f199126490bc33fcceb502",
+      "git:hexsha": "c3ee3b05d6d06be435f199126490bc33fcceb502",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v6.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1cdcd1ae6921ada4c9d53ca476b2155f19f9399d",
+      "git:hexsha": "1cdcd1ae6921ada4c9d53ca476b2155f19f9399d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v6.1.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/b391635ee4a325fb96ed531b00e4b55f66909639",
+      "git:hexsha": "b391635ee4a325fb96ed531b00e4b55f66909639",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v6.1.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/a27a3ee20bff6c6aa0642f31fb736e72d16abbce",
+      "git:hexsha": "a27a3ee20bff6c6aa0642f31fb736e72d16abbce",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v6.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/25a1bf06b4854bd8d9239f8ba05678d2c60a62ad",
+      "git:hexsha": "25a1bf06b4854bd8d9239f8ba05678d2c60a62ad",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v7.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7d00fa83f262ae3bd6fa6c27661e0894675900fc",
+      "git:hexsha": "7d00fa83f262ae3bd6fa6c27661e0894675900fc",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v7.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500",
+      "git:hexsha": "d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v8.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/5f03e3ba5306ea935126d354d71d3c7bb4dec3a3",
+      "git:hexsha": "5f03e3ba5306ea935126d354d71d3c7bb4dec3a3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/9f2a426ea7b27e9ef41bb08bff7b0481d4755aa6",
+      "git:hexsha": "9f2a426ea7b27e9ef41bb08bff7b0481d4755aa6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/36efcb5abe9ea8b6a7707243bec89a81e063c01a",
+      "git:hexsha": "36efcb5abe9ea8b6a7707243bec89a81e063c01a",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/247431544d407d2496e200124e7b5ed2d9e657c9",
+      "git:hexsha": "247431544d407d2496e200124e7b5ed2d9e657c9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.10.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/44f54dd8e85c576b5b031ab5afaa89e4af1d2db8",
+      "git:hexsha": "44f54dd8e85c576b5b031ab5afaa89e4af1d2db8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.11.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/aaea99f764bcd48a12fd09e5b53efd2bafd9281d",
+      "git:hexsha": "aaea99f764bcd48a12fd09e5b53efd2bafd9281d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.11.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/64755d41fa02fce7ec96e93c2356c45e2e489111",
+      "git:hexsha": "64755d41fa02fce7ec96e93c2356c45e2e489111",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.12.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/43a26c0a5e61668e77fa465d0915e6d4d084af40",
+      "git:hexsha": "43a26c0a5e61668e77fa465d0915e6d4d084af40",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.12.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ea2ed337f20cc629a1754cf9bd5add1cce963aa6",
+      "git:hexsha": "ea2ed337f20cc629a1754cf9bd5add1cce963aa6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.12.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/15623c5a57bf758b18542d5293ee319bbd59e829",
+      "git:hexsha": "15623c5a57bf758b18542d5293ee319bbd59e829",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.12.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/c3d0e3584202d66703d2bcf2aaf3e7740bef6e2d",
+      "git:hexsha": "c3d0e3584202d66703d2bcf2aaf3e7740bef6e2d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.13.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7441bf27f3a023c9d3cd57229e4e5e06ec1b8e9f",
+      "git:hexsha": "7441bf27f3a023c9d3cd57229e4e5e06ec1b8e9f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/573125e9b4eaa4b25bb1a911cf61e365b266afba",
+      "git:hexsha": "573125e9b4eaa4b25bb1a911cf61e365b266afba",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.3.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/949e1f72fb9f2f90abb18cbdef47609a24febdb7",
+      "git:hexsha": "949e1f72fb9f2f90abb18cbdef47609a24febdb7",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.4.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/1f3f7f1e33f77838a2cc31bd9d241a93c871047f",
+      "git:hexsha": "1f3f7f1e33f77838a2cc31bd9d241a93c871047f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.5.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/8a7f5d82ba7bbe108a17bdc75720d11852968aed",
+      "git:hexsha": "8a7f5d82ba7bbe108a17bdc75720d11852968aed",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.5.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ea049ffc148998ad3190faaf66992c9704e7d36a",
+      "git:hexsha": "ea049ffc148998ad3190faaf66992c9704e7d36a",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/7ef7ffeee33f269be0a9c36efad943ac8bd15487",
+      "git:hexsha": "7ef7ffeee33f269be0a9c36efad943ac8bd15487",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.6.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/4bf3f19c04f47c60c4fe96b81afe708a0ad812dc",
+      "git:hexsha": "4bf3f19c04f47c60c4fe96b81afe708a0ad812dc",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.6.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/ecf3d7f1ca2b2a5ea9c36ce2b23ae576e0421b6c",
+      "git:hexsha": "ecf3d7f1ca2b2a5ea9c36ce2b23ae576e0421b6c",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.7.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/2d3ec69f6815da1d42da0f61d520c5ad630a5e26",
+      "git:hexsha": "2d3ec69f6815da1d42da0f61d520c5ad630a5e26",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.8.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/aca0b60b22fae4c6e16cec7615c2e7c00f73e44d",
+      "git:hexsha": "aca0b60b22fae4c6e16cec7615c2e7c00f73e44d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.8.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/88b07b3ebc64356e6036bb8a2f33b006af64f7a7",
+      "git:hexsha": "88b07b3ebc64356e6036bb8a2f33b006af64f7a7",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.8.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/Textualize/rich/commit/3473658d13a4e88e1e58a7be116ae6975ca13cf6",
+      "git:hexsha": "3473658d13a4e88e1e58a7be116ae6975ca13cf6",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v9.9.0"
+    }
+  ]
+}
