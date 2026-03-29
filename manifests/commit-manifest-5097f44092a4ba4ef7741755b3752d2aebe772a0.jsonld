@@ -42,10 +42,70 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 920838
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/5097f44092a4ba4ef7741755b3752d2aebe772a0.nq.gz",
+      "repolex:graphFileSize": 1584742
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/5097f44092a4ba4ef7741755b3752d2aebe772a0.nq.gz",
+      "repolex:graphFileSize": 16012903
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/5097f44092a4ba4ef7741755b3752d2aebe772a0.nq.gz",
+      "repolex:graphFileSize": 65
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/5097f44092a4ba4ef7741755b3752d2aebe772a0.nq.gz",
+      "repolex:graphFileSize": 925
     }
   ],
   "repolex:parseStatus": "parsed",
   "repolex:parsedAt": "2026-03-29T09:00:32.871650+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "v1.1.9"
+  "git:tagName": "v1.1.9",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/tartley/colorama",
+      "repolex:packageName": "colorama",
+      "git:hexsha": "38e444ab5ec529509df8a7db0243bfe205939008",
+      "git:tagName": "0.4.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/rtfd/commonmark.py",
+      "repolex:packageName": "commonmark",
+      "git:hexsha": "7e02d134ba2371eef08ce3c009bc2c83b675954b",
+      "git:tagName": "0.9.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/pygments/pygments",
+      "repolex:packageName": "pygments",
+      "git:hexsha": "d2eae8580d7e363bca03554e3b516d0fd77b25cb",
+      "git:tagName": "2.6.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/wolever/pprintpp",
+      "repolex:packageName": "pprintpp"
+    },
+    {
+      "@id": "https://repolex.ai/r/python/mypy",
+      "repolex:packageName": "mypy",
+      "git:hexsha": "92e3f396b03c69c1d8abc249632bfd2db02350d0",
+      "git:tagName": "v0.770"
+    },
+    {
+      "@id": "https://repolex.ai/r/python/typing_extensions",
+      "repolex:packageName": "typing-extensions",
+      "git:hexsha": "7c00cacae00c4f3263e939e88b5e7739150851e5",
+      "git:tagName": "3.7.4.1"
+    }
+  ]
 }

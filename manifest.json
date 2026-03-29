@@ -5893,67 +5893,68 @@
       "dep": "dep/5097f44092a4ba4ef7741755b3752d2aebe772a0.nq.gz",
       "dependencies": [
         {
-          "packageName": "rich",
-          "packageVersion": "9.9.0",
-          "githubOrg": "willmcgugan",
-          "githubRepo": "rich",
-          "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
-        },
-        {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
-        },
-        {
-          "packageName": "typing-extensions",
-          "packageVersion": "4.9.0rc1",
-          "githubOrg": "python",
-          "githubRepo": "typing_extensions",
-          "githubCommit": "f82d6367f3ff8f16b6291de06394ec6b9318bfc3"
+          "packageName": "colorama",
+          "ecosystem": "PYPI",
+          "version": "0.4.3",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "38e444ab5ec529509df8a7db0243bfe205939008",
+          "githubTag": "0.4.3",
+          "githubUrl": "https://github.com/tartley/colorama",
+          "source": "build_file:requirements.txt"
         },
         {
           "packageName": "commonmark",
-          "packageVersion": "0.9.1",
+          "ecosystem": "PYPI",
+          "version": "0.9.1",
           "githubOrg": "rtfd",
           "githubRepo": "commonmark.py",
-          "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
+          "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b",
+          "githubTag": "0.9.1",
+          "githubUrl": "https://github.com/rtfd/commonmark.py",
+          "source": "build_file:requirements.txt"
         },
         {
-          "packageName": "emoji",
-          "packageVersion": "2.9.0",
-          "githubOrg": "carpedm20",
-          "githubRepo": "emoji",
-          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
-        },
-        {
-          "packageName": "wcwidth",
-          "packageVersion": "0.6.0",
-          "githubOrg": "jquast",
-          "githubRepo": "wcwidth",
-          "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
-        },
-        {
-          "packageName": "colorama",
-          "packageVersion": "0.4.6rc1",
-          "githubOrg": "tartley",
-          "githubRepo": "colorama",
-          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
-        },
-        {
-          "packageName": "sphinx-rtd-theme",
-          "packageVersion": "3.1.0rc2",
-          "githubOrg": "readthedocs",
-          "githubRepo": "sphinx_rtd_theme",
-          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.6.1",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubCommit": "d2eae8580d7e363bca03554e3b516d0fd77b25cb",
+          "githubTag": "2.6.1",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "build_file:requirements.txt"
         },
         {
           "packageName": "pprintpp",
-          "packageVersion": "0.4.0",
+          "ecosystem": "PYPI",
+          "version": "0.4.0",
           "githubOrg": "wolever",
           "githubRepo": "pprintpp",
-          "githubCommit": "HEAD"
+          "githubUrl": "https://github.com/wolever/pprintpp",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "0.770",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "92e3f396b03c69c1d8abc249632bfd2db02350d0",
+          "githubTag": "v0.770",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "3.7.4.1",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "7c00cacae00c4f3263e939e88b5e7739150851e5",
+          "githubTag": "3.7.4.1",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:requirements.txt"
         }
       ]
     },
