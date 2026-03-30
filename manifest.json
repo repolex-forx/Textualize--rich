@@ -89928,6 +89928,39 @@
         "blob/97e29bf6dfe2fd26d0e6d50b384335d7374e3e44.nq.gz",
         "blob/08ff1000337ef141ac893da86b846a5dc3242b9a.nq.gz",
         "blob/faf0d1929b951454fe3ba52fb8a45417757ca7fa.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500.nq.gz",
+      "repolex": "aggregate/repolex/d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500.nq.gz",
+      "dep": "dep/d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.20.0",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubCommit": "708197d82827ba2d5ca78bcbb653c7102ce86dcd",
+          "githubTag": "2.20.0",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pygments/styles/__init__.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.15.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "9d1637e264b5c1a6b7acee3e907015f89b20c2c9",
+          "githubTag": "4.15.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
