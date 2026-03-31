@@ -102836,6 +102836,39 @@
         "blob/97e29bf6dfe2fd26d0e6d50b384335d7374e3e44.nq.gz",
         "blob/08ff1000337ef141ac893da86b846a5dc3242b9a.nq.gz",
         "blob/faf0d1929b951454fe3ba52fb8a45417757ca7fa.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "repolex": "aggregate/repolex/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "dep": "dep/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "attr",
+          "ecosystem": "PYPI",
+          "version": "0.3.2",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr",
+          "githubCommit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+          "githubTag": "0.3.2",
+          "githubUrl": "https://github.com/denis-ryzhkov/attr",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/attr/__init__.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.15.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "9d1637e264b5c1a6b7acee3e907015f89b20c2c9",
+          "githubTag": "4.15.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],

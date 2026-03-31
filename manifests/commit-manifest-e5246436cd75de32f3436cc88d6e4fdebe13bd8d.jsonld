@@ -42,10 +42,48 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 920838
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "repolex:graphFileSize": 4038401
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "repolex:graphFileSize": 30471419
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "repolex:graphFileSize": 219713
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz",
+      "repolex:graphFileSize": 512
     }
   ],
   "repolex:parseStatus": "parsed",
   "repolex:parsedAt": "2026-03-31T23:19:02.490579+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "v10.4.0"
+  "git:tagName": "v10.4.0",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/denis-ryzhkov/attr",
+      "repolex:packageName": "attr",
+      "git:hexsha": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+      "git:tagName": "0.3.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/python/typing_extensions",
+      "repolex:packageName": "typing-extensions",
+      "git:hexsha": "9d1637e264b5c1a6b7acee3e907015f89b20c2c9",
+      "git:tagName": "4.15.0"
+    }
+  ]
 }
