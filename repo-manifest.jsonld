@@ -365,8 +365,9 @@
     {
       "@id": "https://repolex.ai/r/Textualize/rich/commit/43d4c4e50c0334f93240aa907183bb24b8e69fe9",
       "git:hexsha": "43d4c4e50c0334f93240aa907183bb24b8e69fe9",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v10.8.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v10.8.0",
+      "repolex:parsedAt": "2026-04-01T00:40:38.524441+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Textualize/rich/commit/bd34e0a1ef8f59700f19277ec30cf0cb5ff01a08",
