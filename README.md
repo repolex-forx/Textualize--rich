@@ -65,6 +65,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── 6261ca23bf838abaa0fa6478dc81ccb18a6949c0.nq.gz
 │   │   ├── 6b088eaf323cadf6b3caca5a1c584b611fae4668.nq.gz
 │   │   ├── 6d7ba589e2e37e91f12d0a0d4e4a6ae0c9e144a5.nq.gz
+│   │   ├── 72e3bb33d44fd96881f7742b77137983907a942f
+│   │   │   └── chunk-001.nq.gz
 │   │   ├── 7441bf27f3a023c9d3cd57229e4e5e06ec1b8e9f.nq.gz
 │   │   ├── 748dea614fa03ac8d3b1d66d14a2acc8c8ec223f.nq.gz
 │   │   ├── 7e4a2db4afa29a59ff90d265ad115a225038a5d0.nq.gz
@@ -125,6 +127,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── 6261ca23bf838abaa0fa6478dc81ccb18a6949c0.nq.gz
 │   │   ├── 6b088eaf323cadf6b3caca5a1c584b611fae4668.nq.gz
 │   │   ├── 6d7ba589e2e37e91f12d0a0d4e4a6ae0c9e144a5.nq.gz
+│   │   ├── 72e3bb33d44fd96881f7742b77137983907a942f.nq.gz
 │   │   ├── 7441bf27f3a023c9d3cd57229e4e5e06ec1b8e9f.nq.gz
 │   │   ├── 748dea614fa03ac8d3b1d66d14a2acc8c8ec223f.nq.gz
 │   │   ├── 7e4a2db4afa29a59ff90d265ad115a225038a5d0.nq.gz
@@ -186,6 +189,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │       ├── 6261ca23bf838abaa0fa6478dc81ccb18a6949c0.nq.gz
 │       ├── 6b088eaf323cadf6b3caca5a1c584b611fae4668.nq.gz
 │       ├── 6d7ba589e2e37e91f12d0a0d4e4a6ae0c9e144a5.nq.gz
+│       ├── 72e3bb33d44fd96881f7742b77137983907a942f
+│       │   └── chunk-001.nq.gz
 │       ├── 7441bf27f3a023c9d3cd57229e4e5e06ec1b8e9f.nq.gz
 │       ├── 748dea614fa03ac8d3b1d66d14a2acc8c8ec223f.nq.gz
 │       ├── 7e4a2db4afa29a59ff90d265ad115a225038a5d0.nq.gz
@@ -243,12 +248,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 02323c3ee10e7ed25d28c7df06f1d38f2dbb1a73.nq.gz
     ├── 02345163129b3b68b6ea79047bdeab3646d67aea.nq.gz
     ├── 02bb1b262a4b10b64f6d5105df774714c9699aaf.nq.gz
-    ├── 02be340721f8eb357a6be9b371c6ea061e4763f1.nq.gz
-    ├── 02cab328251af9bfa809981aaa44933c407e2cd7.nq.gz
-    ├── 02fdd0b0fb86634f4d297bc0bf01727cdbc3745d.nq.gz
-    └── 03202f2cd29e25d150b047d8211bc7af5f4e67f7.nq.gz
+    └── 02be340721f8eb357a6be9b371c6ea061e4763f1.nq.gz
 
-12 directories, 200 files
+14 directories, 200 files
 ```
 
 | Directory | What it contains |
