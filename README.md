@@ -93,6 +93,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     │   ├── 9abc0292c1f96433e4f87b10d5dea0d617b0ab23.nq.gz
     │   ├── 9f2a426ea7b27e9ef41bb08bff7b0481d4755aa6.nq.gz
     │   ├── a27a3ee20bff6c6aa0642f31fb736e72d16abbce.nq.gz
+    │   ├── a6f2d84511cda7f367dca527177d7b586264755b
+    │   │   └── chunk-001.nq.gz
     │   ├── a81230bcff8e66a6e16522a0ab9186416d615f09.nq.gz
     │   ├── aaea99f764bcd48a12fd09e5b53efd2bafd9281d.nq.gz
     │   ├── ac1a33da175972f895e894121df609d0cb1448fe.nq.gz
@@ -170,6 +172,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     │   ├── 9abc0292c1f96433e4f87b10d5dea0d617b0ab23.nq.gz
     │   ├── 9f2a426ea7b27e9ef41bb08bff7b0481d4755aa6.nq.gz
     │   ├── a27a3ee20bff6c6aa0642f31fb736e72d16abbce.nq.gz
+    │   ├── a6f2d84511cda7f367dca527177d7b586264755b.nq.gz
     │   ├── a81230bcff8e66a6e16522a0ab9186416d615f09.nq.gz
     │   ├── aaea99f764bcd48a12fd09e5b53efd2bafd9281d.nq.gz
     │   ├── ac1a33da175972f895e894121df609d0cb1448fe.nq.gz
@@ -250,6 +253,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
         ├── 9abc0292c1f96433e4f87b10d5dea0d617b0ab23.nq.gz
         ├── 9f2a426ea7b27e9ef41bb08bff7b0481d4755aa6.nq.gz
         ├── a27a3ee20bff6c6aa0642f31fb736e72d16abbce.nq.gz
+        ├── a6f2d84511cda7f367dca527177d7b586264755b
+        │   └── chunk-001.nq.gz
         ├── a81230bcff8e66a6e16522a0ab9186416d615f09.nq.gz
         ├── aaea99f764bcd48a12fd09e5b53efd2bafd9281d.nq.gz
         ├── ac1a33da175972f895e894121df609d0cb1448fe.nq.gz
@@ -263,13 +268,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
         ├── c9afafdd680831a43956906d56c78d9933aaf232.nq.gz
         ├── cc0107017f4a590b4b084aac7f61c424f9672331
         │   └── chunk-001.nq.gz
-        ├── ce0118819d172d134507bcf5982d3faf82bbc43e
-        │   └── chunk-001.nq.gz
-        ├── cefafdc12e0220d139c704522979a0dc9b3f889b.nq.gz
-        ├── cf606f0a3cab3dbe8f9fdaa2ccc4882c594ce2af.nq.gz
-        └── d9d59c6eda6d21f4515e9a8fe9496fa5e68f9500.nq.gz
+        └── ce0118819d172d134507bcf5982d3faf82bbc43e
+            └── chunk-001.nq.gz
 
-33 directories, 200 files
+35 directories, 200 files
 ```
 
 | Directory | What it contains |
