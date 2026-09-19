@@ -105,6 +105,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz
 │   │   ├── e7849495bba31d9320e17c23f24d50f6e3447486.nq.gz
 │   │   ├── e9e72000c50f56654c89e119ff882e322e51ecf3.nq.gz
+│   │   ├── e9f75c9912ed25b9777bc0257853370951220b17
+│   │   │   └── chunk-001.nq.gz
 │   │   ├── ecf3d7f1ca2b2a5ea9c36ce2b23ae576e0421b6c.nq.gz
 │   │   └── f2af8c9d54e9ebc14b32fe68ddaefd01b7e5a801.nq.gz
 │   ├── lsp
@@ -168,6 +170,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz
 │   │   ├── e7849495bba31d9320e17c23f24d50f6e3447486.nq.gz
 │   │   ├── e9e72000c50f56654c89e119ff882e322e51ecf3.nq.gz
+│   │   ├── e9f75c9912ed25b9777bc0257853370951220b17.nq.gz
 │   │   ├── ecf3d7f1ca2b2a5ea9c36ce2b23ae576e0421b6c.nq.gz
 │   │   └── f2af8c9d54e9ebc14b32fe68ddaefd01b7e5a801.nq.gz
 │   └── repolex
@@ -238,6 +241,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │       ├── e5246436cd75de32f3436cc88d6e4fdebe13bd8d.nq.gz
 │       ├── e7849495bba31d9320e17c23f24d50f6e3447486.nq.gz
 │       ├── e9e72000c50f56654c89e119ff882e322e51ecf3.nq.gz
+│       ├── e9f75c9912ed25b9777bc0257853370951220b17
+│       │   └── chunk-001.nq.gz
 │       ├── ecf3d7f1ca2b2a5ea9c36ce2b23ae576e0421b6c.nq.gz
 │       └── f2af8c9d54e9ebc14b32fe68ddaefd01b7e5a801.nq.gz
 └── blob
@@ -251,12 +256,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 00eadcc930dc6aa0fe9a6a29c0f4ac1e8bb3be12.nq.gz
     ├── 01033c248f8bd62ac42c74ad6046cf64dbfa9087.nq.gz
     ├── 010ce3743566bc750c5e043199b0fa053fbe9e3e.nq.gz
-    ├── 010d7974611bce301a7c39d686ac226559b82cdd.nq.gz
-    ├── 01226fc5f293271014acd3f593623a61a1caa6f4.nq.gz
-    ├── 016e7825eccd6b87410741db79948bb0b99ea921.nq.gz
-    └── 017eb426d5d2f2fc86b53b3abd1ea142200d0511.nq.gz
+    └── 010d7974611bce301a7c39d686ac226559b82cdd.nq.gz
 
-20 directories, 200 files
+22 directories, 200 files
 ```
 
 | Directory | What it contains |
