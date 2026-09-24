@@ -6,29 +6,27 @@ RDF knowledge graph data for [Textualize/rich](https://github.com/Textualize/ric
 
 ## How to use this data
 
-The easiest way to get started is to install the [lexq](https://github.com/repolex-ai/lexq) query tool using [uv](https://docs.astral.sh/uv/getting-started/installation/).
-
-If you have uv installed, just copy/paste this into your terminal:
+The easiest way to get started is to install the [rlex](https://github.com/repolex-ai/rlex) query tool:
 
 ```bash
-uv tool install git+https://github.com/repolex-ai/lexq
+cargo install --git https://github.com/repolex-ai/rlex
 ```
 
-This installs lexq onto your system, in your user context. Verify the install:
+Verify the install:
 
 ```bash
-lexq --help
+rlex --help
 ```
 
-**lexq is designed to be used primarily by LLMs in a terminal.** Start up your favorite LLM and ask it to use the lexq tool. It's that easy!
+**rlex is designed to be used primarily by LLMs in a terminal.** Start up your favorite AI assistant and ask it to use rlex. It handles the SPARQL — you just ask questions in plain English.
 
 To load this repo's data:
 
 ```bash
-lexq download Textualize/rich
+rlex download Textualize/rich
 ```
 
-This will automatically download essential data files from the last parsed commit. Consult `lexq --moreinfo` for other options, including downloading multiple commits, blobs, etc.
+Consult `rlex --help` for other options, including SPARQL queries, HTTP server, and interactive visualization.
 
 ## Data structure
 
@@ -61,6 +59,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     │   ├── 334dc742fbed621ccf21a6d8a76e71f74e51fcf1.nq.gz
     │   ├── 3473658d13a4e88e1e58a7be116ae6975ca13cf6.nq.gz
     │   ├── 36efcb5abe9ea8b6a7707243bec89a81e063c01a.nq.gz
+    │   ├── 3827b4ae01aca1b4cb308f4c838da1b91384ad7d
+    │   │   └── chunk-001.nq.gz
     │   ├── 3f7d3e4ef372f4ce954c240df723d8cd646b1534
     │   │   └── chunk-001.nq.gz
     │   ├── 43d3b04725ab9731727fb1126e35980c62f32377
@@ -162,6 +162,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     │   ├── 334dc742fbed621ccf21a6d8a76e71f74e51fcf1.nq.gz
     │   ├── 3473658d13a4e88e1e58a7be116ae6975ca13cf6.nq.gz
     │   ├── 36efcb5abe9ea8b6a7707243bec89a81e063c01a.nq.gz
+    │   ├── 3827b4ae01aca1b4cb308f4c838da1b91384ad7d.nq.gz
     │   ├── 3f7d3e4ef372f4ce954c240df723d8cd646b1534.nq.gz
     │   ├── 43d3b04725ab9731727fb1126e35980c62f32377.nq.gz
     │   ├── 43d4c4e50c0334f93240aa907183bb24b8e69fe9.nq.gz
@@ -248,6 +249,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
         ├── 334dc742fbed621ccf21a6d8a76e71f74e51fcf1.nq.gz
         ├── 3473658d13a4e88e1e58a7be116ae6975ca13cf6.nq.gz
         ├── 36efcb5abe9ea8b6a7707243bec89a81e063c01a.nq.gz
+        ├── 3827b4ae01aca1b4cb308f4c838da1b91384ad7d
+        │   └── chunk-001.nq.gz
         ├── 3f7d3e4ef372f4ce954c240df723d8cd646b1534
         │   └── chunk-001.nq.gz
         ├── 43d3b04725ab9731727fb1126e35980c62f32377
@@ -273,13 +276,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
         ├── 72e3bb33d44fd96881f7742b77137983907a942f
         │   └── chunk-001.nq.gz
         ├── 7441bf27f3a023c9d3cd57229e4e5e06ec1b8e9f.nq.gz
-        ├── 748dea614fa03ac8d3b1d66d14a2acc8c8ec223f.nq.gz
-        ├── 7e4a2db4afa29a59ff90d265ad115a225038a5d0.nq.gz
-        ├── 7f580bdcf07a3b269a0e786b6a3aa9c804f393cf
-        │   └── chunk-001.nq.gz
-        └── 84d9a1d8792ee76dcf8497f12fa69ee094aac282.nq.gz
+        └── 748dea614fa03ac8d3b1d66d14a2acc8c8ec223f.nq.gz
 
-43 directories, 200 files
+44 directories, 200 files
 ```
 
 | Directory | What it contains |
@@ -293,6 +292,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 | `branch/` | Branch metadata. |
 | `tag/` | Tag metadata. |
 | `filetree/` | File tree snapshots per commit (which files existed and their blob SHAs). |
+| `audit/` | Code architecture and graph audit reports per commit. |
 
 ## Source repository
 
