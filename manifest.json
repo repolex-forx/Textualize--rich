@@ -174296,6 +174296,82 @@
       ],
       "ast": [
         "aggregate/ast/2ba277ac54a153d3030b496698133ec2e4f67e1d/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/2ba277ac54a153d3030b496698133ec2e4f67e1d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.21.0",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubCommit": "a43b45dcf081b6010c6ab4428f149f7f6d2499c4",
+          "githubTag": "2.21.0",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/pygments/lexers/__init__.py"
+        },
+        {
+          "packageName": "attr",
+          "ecosystem": "PYPI",
+          "version": "0.3.2",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr",
+          "githubCommit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+          "githubTag": "0.3.2",
+          "githubUrl": "https://github.com/denis-ryzhkov/attr",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/attr/__init__.py"
+        },
+        {
+          "packageName": "attrs",
+          "ecosystem": "PYPI",
+          "version": "26.1.0",
+          "githubOrg": "python-attrs",
+          "githubRepo": "attrs",
+          "githubCommit": "7bfc49e9b22d5ba25b6e429524c3d49fee27cb36",
+          "githubTag": "26.1.0",
+          "githubUrl": "https://github.com/python-attrs/attrs",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/attrs/__init__.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.0.0",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "72e919a8b10aaafc041205d4e3ae0e6a2e1e5f87",
+          "githubTag": "v84.0.0",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/setuptools/__init__.py"
+        },
+        {
+          "packageName": "click",
+          "ecosystem": "PYPI",
+          "version": "8.5.0",
+          "githubOrg": "pallets",
+          "githubRepo": "click",
+          "githubCommit": "8b19813f2bfca99f1018a587a8cf54fc959f2e5d",
+          "githubTag": "8.5.0",
+          "githubUrl": "https://github.com/pallets/click",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/click/__init__.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
