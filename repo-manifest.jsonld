@@ -292,7 +292,7 @@
     {
       "@id": "https://repolex.ai/r/Textualize/rich/commit/3827b4ae01aca1b4cb308f4c838da1b91384ad7d",
       "git:hexsha": "3827b4ae01aca1b4cb308f4c838da1b91384ad7d",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "v10.15.2"
     },
     {
