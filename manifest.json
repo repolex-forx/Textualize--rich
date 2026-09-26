@@ -89127,7 +89127,7 @@
         "aggregate/ast/550d391171934874ec85ef7bcad2292d8728c1ce/chunk-001.nq.gz"
       ],
       "lsp": "aggregate/lsp/550d391171934874ec85ef7bcad2292d8728c1ce.nq.gz",
-      "repolex": "aggregate/repolex/550d391171934874ec85ef7bcad2292d8728c1ce.nq.gz",
+      "repolex": "aggregate/repolex/550d391171934874ec85ef7bcad2292d8728c1ce/chunk-001.nq.gz",
       "dep": "dep/550d391171934874ec85ef7bcad2292d8728c1ce.nq.gz",
       "dependencies": [
         {
