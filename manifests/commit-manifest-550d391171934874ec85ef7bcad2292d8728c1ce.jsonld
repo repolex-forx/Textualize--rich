@@ -48,10 +48,48 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/550d391171934874ec85ef7bcad2292d8728c1ce/chunk-001.nq.gz",
       "repolex:graphFileSize": 17825697
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/550d391171934874ec85ef7bcad2292d8728c1ce.nq.gz",
+      "repolex:graphFileSize": 1494609
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-09-25T07:13:37.405454+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "v10.11.0"
+  "git:tagName": "v10.11.0",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/denis-ryzhkov/attr",
+      "repolex:packageName": "attr",
+      "git:hexsha": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+      "git:tagName": "0.3.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/pygments/pygments",
+      "repolex:packageName": "pygments",
+      "git:hexsha": "a43b45dcf081b6010c6ab4428f149f7f6d2499c4",
+      "git:tagName": "2.21.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/pallets/click",
+      "repolex:packageName": "click",
+      "git:hexsha": "8b19813f2bfca99f1018a587a8cf54fc959f2e5d",
+      "git:tagName": "8.5.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/pypa/setuptools",
+      "repolex:packageName": "setuptools",
+      "git:hexsha": "72e919a8b10aaafc041205d4e3ae0e6a2e1e5f87",
+      "git:tagName": "v84.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/python/typing_extensions",
+      "repolex:packageName": "typing-extensions",
+      "git:hexsha": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+      "git:tagName": "4.16.0"
+    }
+  ]
 }
